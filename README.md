@@ -11,3 +11,6 @@
 
 ## Dice-Game
 [https://arg5179.github.io/Angela-Project/Dice-Game]
+
+## SimonGame
+[https://arg5179.github.io/Angela-Project/SimonGame]
